@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KotlinApplication"
 include(":app")
- 
+include(":composearticle")
