@@ -1,15 +1,8 @@
 # Project Name
 
 Brief description of your project goes here.
+![Screenshot from 2025-04-29 16-01-17](https://github.com/user-attachments/assets/e63104e2-38d1-421a-a414-1da4b8cd9458)
 
-## Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Feature 1
